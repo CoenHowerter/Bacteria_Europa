@@ -5,13 +5,19 @@ This project is a numerical model exploring the potential habitability of Europa
 The goal is not to claim life can exist on Europa, but to test how environmental parameters affect biological viability when nutrients is provided.
 
 The project is organized as a Jupyter Lab notebook, divided into:
+</details>
 
+---
+
+## 
+
+```
 Baseline
   └── Growth under Earth-like reference conditions
 
 Europa
   ├── Surface
-  │     ├── Conditions
+  │     ├── Conditions 
   │     ├── Simulation
   │     └── Plotting (latitude to day/night)
   │
@@ -25,3 +31,5 @@ Europa
         ├── Ice thickness sweep
         ├── Geothermal heating sweep
         └── Plotting (each sweep to growth)
+```
+
